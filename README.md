@@ -3,7 +3,8 @@
 ### Sobre mim:
 - 👨‍🎓 Sempre Estudando novas linguagens, no momento: Javascript.
 - 🎯 Interesse: Javascript e HTML 5. 
-- 🏋🏻 Gosto de praticar atividades fisicas, atualmente estou fazendo academia. 
+- 🏋🏻 Gosto de praticar atividades fisicas, atualmente estou fazendo academia.
+- 📈 Investidor (singelo) em criptoativos e entusiasta de blockchain. 
 
 ## 👨🏻‍💻 Skills
 <div style="display: inline_block"><br>
