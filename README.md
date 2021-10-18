@@ -1,5 +1,3 @@
-### Hello world!👋
-
 <div align="center">
   <a href="https://github.com/fabiocf1">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fabiocf1&show_icons=true&count_private=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
