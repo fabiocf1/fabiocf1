@@ -1,7 +1,7 @@
 ## Oi, eu sou o Fabio! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ### Sobre mim:
-- 👨‍🎓 Sempre Estudando novas linguagens, no momento: Javascript.
+- 👨‍🎓 Sempre estudando novas linguagens, no momento: Javascript.
 - 🎯 Interesse: Javascript e HTML 5. 
 - 🏋🏻 Gosto de praticar atividades fisicas, atualmente estou fazendo academia.
 - 📈 Investidor (singelo) em criptoativos e entusiasta de blockchain. 
